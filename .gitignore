@@ -1,0 +1,41 @@
+# Byte-compiled
+__pycache__/ 
+*.py[cod]
+*$py.class
+*.pyc
+.mypy_cache/
+
+
+# Packages & Distribution
+bin/
+include/
+build/
+dist/
+.Python
+staticfiles
+
+# Installer logs
+pip-log.txt
+*.log
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+.vscode/
+
+# output data
+output/
+
+# media
+media/
+
+.data
